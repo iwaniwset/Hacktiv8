@@ -1,18 +1,6 @@
-/*
-PSEUDOCODE
-
-STORE "massa" WITH ANY NUMBER VALUE
-STORE "percepatan" WITH ANY NUMBER VALUE
-STORE "resultan" WITHOUT ANY VALUE
-
-CALCULATE "percepatan" times "massa"
-SET "resultan" with calculation result
-
-DISPLAY "resultanGaya"
 
 
 
-*/
 
 
 
